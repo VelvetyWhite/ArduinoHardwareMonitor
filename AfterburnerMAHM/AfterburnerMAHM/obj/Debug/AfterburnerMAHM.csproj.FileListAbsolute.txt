@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\AfterburnerMAHM.exe.config
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\AfterburnerMAHM.exe
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\AfterburnerMAHM.pdb
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\MSIAfterburner.NET.dll
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\obj\Debug\AfterburnerMAHM.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\obj\Debug\AfterburnerMAHM.exe
+D:\Visual Studio Projects\AfterburnerMAHM\AfterburnerMAHM\obj\Debug\AfterburnerMAHM.pdb
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\AfterburnerMAHM.exe.config
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\obj\Debug\AfterburnerMAHM.exe
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\obj\Debug\AfterburnerMAHM.pdb
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\AfterburnerMAHM.exe
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\AfterburnerMAHM.pdb
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\bin\Debug\MSIAfterburner.NET.dll
+C:\Users\ic319\Documents\Visual Studio 2015\Projects\AfterburnerMAHM\AfterburnerMAHM\obj\Debug\AfterburnerMAHM.csprojResolveAssemblyReference.cache
